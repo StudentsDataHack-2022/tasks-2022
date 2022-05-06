@@ -13,11 +13,11 @@ If you missed the inauguration, here's the quick recap!
 | Sat (May 7) |  |
 | -------------- | --------------------------------- |
 | 8:30 a.m. - 8:59 a.m. | Introductory Webinar|
-| 9:00 a.m. -  | Task Solving |
+| 9:00 a.m. - _____  | Task Solving |
 
 ### Day 2 Hackathon/Final Presentation/Awards
 | Sun (May 8) |  |
 | -------------- | --------------------------------- |
-|  - 8:59 a.m. |  | Task Solving |
+| _____ - 8:59 a.m. |  Task Solving |
 | 4:00 p.m. - 6:30 p.m. | Final presentations |
 | 7 p.m. - 8 p.m. | End of the Contest |
