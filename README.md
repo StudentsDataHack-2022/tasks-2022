@@ -19,5 +19,5 @@ If you missed the inauguration, here's the quick recap!
 | Sun (May 8) |  |
 | -------------- | --------------------------------- |
 | _____ - 8:59 a.m. |  Task Solving |
-| 4:00 p.m. - 6:30 p.m. | Final presentations |
+| 4:00 p.m. - 6:30 p.m. | Final Presentations |
 | 7:00 p.m. - 8:00 p.m. | End of the Contest |
