@@ -1,0 +1,16 @@
+Zadanie: Predykcja cen pobytów
+
+Po długim okresie światowej pandemii i lockdownu, coraz więcej ludzi decyduje się na spędzenie urlopu w inny sposób niż wcześniej.
+Większym zainteresowaniem cieszy się wynajem obiektów przez prywatnych właścicieli, którzy mogą to robić m.in. przez zdobywające popularność platformy internetowe.
+W związku z ogólnymi wzrostami kosztów podróżowania, cena zakwaterowania staje się niezwykle istotnym czynnikiem. 
+Dlatego też przygotowaliśmy dla Was zadanie związane z predykcją cen pobytów. 
+Waszym celem, przy wykorzystaniu danych z jednej z wiodących stron internetowych tego rodzaju, będzie stworzenie skutecznego modelu do przewidywania cen noclegu.
+
+Brane pod uwagę będą:
+*	Preprocessing danych
+*	Interpretowalność modelu
+*	Wizualizacje wyników
+*	Analiza zjawiska przeuczenia
+*	Skuteczność modelu (w różnych metrykach)
+
+Końcowej ocenie podlega kod oraz prezentacja, w której zawarte będą wyniki prac.

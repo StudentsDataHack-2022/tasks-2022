@@ -1,0 +1,21 @@
+Zadanie: Modelowanie zmian klimatycznych.
+
+Jeszcze do nie tak dawna zarówno istnienie jak i konsekwencje zmian klimatycznych postrzegane były jako problem nie tylko przyszły ale także i odległy. Dziś wiemy, że jesteśmy uczestnikami tych zmian w pełnym tego słowa znaczeniu - zarówno je obserwujemy jak i doświadczamy ich skutków. I to już od dziesięcioleci. Z jednej strony mówią nam o tym dane temperaturowe czy powodziowe, z drugiej zaś - bilanse ofiar oraz strat materialnych.
+
+Waszym zadaniem jest zamodelowanie dowolnego, wybranego przez Was zjawiska klimatycznego oraz prezentacja wpływu jego zmian na otaczającą nas rzeczywistość. Dopuszczalne są rozważania o wymiarze globalnym jak i lokalnym (kraj, miasto lub nawet przedsiębiorstwo). Nie mniej ważne niż samo rozwiązanie postawionego przez Was problemu analitycznego są Wasze prognozy rozwoju badanego zjawiska jak i rekomendacje w zakresie mitygacji związanego z nim ryzyka klimatycznego.
+
+Przykładową inspirację stanowić mogą następujące źródła:
+
+- Statystyki z obszaru katastrof naturalnych oraz ich skutków: https://ourworldindata.org/natural-disasters
+- Dane Banku Światowego w zakresie zmian klimatycznych: https://data.worldbank.org/topic/19
+- Globalna baza elektrowni: https://datasets.wri.org/dataset/globalpowerplantdatabase
+- Struktura użytkowania ziemi w Brazylii oraz jej zmiany: https://mapbiomas.org/en/statistics
+- Struktura oraz zmiany mixu energerycznego w podziale na kraje: https://ember-climate.org/data/
+- Mapa emisji metanu: https://pulse.ghgsat.com/
+- Mapa emisji gazów cieplarnianych: https://greenhousemaps.com/
+- Mapa satelitarna obszarów zalesionych - ujęcie dynamiczne: https://glad.earthengine.app/view/global-forest-change
+
+Efekt końcowy Waszych prac powinien składać się z:
+- wykorzystanego w modelowaniu zbioru danych (tu gorąco zachęcamy do poszukiwania własnych źródeł),
+- kodu modelu analitycznego wraz z komentarzami,
+- raportu z przeprowadzonych prac wraz z rekomendacjami (max: 10 stron A4).

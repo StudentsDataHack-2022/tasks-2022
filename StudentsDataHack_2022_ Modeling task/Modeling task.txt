@@ -1,0 +1,24 @@
+Task: Modeling climate change.
+
+Until not so long ago, both the existence and the consequences of climate change were perceived as not only a future problem but also a distant one. Today we know that we are participants in these changes in the full sense of the word - we both observe them and experience their consequences. And this has been happening for decades. On the one hand, we are told about it by temperature or flood data, on the other - about the balance sheets of casualties and material losses.
+
+Your task is to model any climatic phenomenon of your choice and present the impact of its changes on the surrounding reality. Both global and local (country, city or even company) aspects are acceptable. No less important than the solution to the analytical problem posed by you is your forecast for the development of the studied phenomenon as well as your recommendations for the mitigation of the climate risk associated with it.
+
+The following sources can serve as examples of inspiration:
+
+- Statistics on natural disasters and their impacts: https://ourworldindata.org/natural-disasters
+- World Bank data on climate change: https://data.worldbank.org/topic/19
+- Global power plant database: https://datasets.wri.org/dataset/globalpowerplantdatabase
+- Land use structure in Brazil and its changes: https://mapbiomas.org/en/statistics
+- Energy mix structure and changes by country: https://ember-climate.org/data/
+- Map of methane emissions: https://pulse.ghgsat.com/
+- Map of greenhouse gas emissions: https://greenhousemaps.com/
+- Satellite map of forested areas - dynamic view: https://glad.earthengine.app/view/global-forest-change
+
+The final output of your work should consist of:
+- the dataset used in the modelling (here we strongly encourage you to find your own sources),
+- code of analytical model with comments,
+- a report of your work with recommendations (max: 10 A4 pages).
+
+
+Translated with www.DeepL.com/Translator (free version)
