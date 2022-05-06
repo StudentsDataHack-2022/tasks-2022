@@ -20,4 +20,4 @@ If you missed the inauguration, here's the quick recap!
 | -------------- | --------------------------------- |
 | _____ - 8:59 a.m. |  Task Solving |
 | 4:00 p.m. - 6:30 p.m. | Final presentations |
-| 7 p.m. - 8 p.m. | End of the Contest |
+| 7:00 p.m. - 8:00 p.m. | End of the Contest |
