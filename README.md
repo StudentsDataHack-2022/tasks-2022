@@ -4,9 +4,10 @@
 
 If you missed the inauguration, here's the quick recap!
 
-- If you have any questions regarding the organisation of the event, please write to https://www.facebook.com/StudentsDataHack-102825025233118 in private message
-- You have to do tasks that you chose in the Google Form, and solve them individually
+- If you have any questions regarding the organisation of the event, please write to https://www.facebook.com/StudentsDataHack-102825025233118 in private message.
+- You have to do tasks that you chose in the Google Form, and solve them individually.
 - Task descriptions you can find in folders named "StudentsDataHack_2022_ *".
+- Dataset for prediction task can be found in the "dataset-2022" repository.
 
 ## Hackathon Tentative Schedule
 ### Day 1 Hackathon
